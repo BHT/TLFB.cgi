@@ -504,7 +504,7 @@ sub print_header {
 <div id="main">
 <div id="uwbar">
 <div id="logo">
-<p align="center"> <img src="http://www.uvabrand.com/assets/images/printLogo.jpg" alt="UVa Health System Logo" width="200"></p>
+<p align="center"> <img src="/uva-logo.png" alt="UVa Health System Logo" width="250"></p>
 </div>
 <br>
  <div id="pagetitle">
